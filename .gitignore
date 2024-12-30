@@ -1,7 +1,6 @@
 respuesta_ordenes.txt
-Report.csv
-ventas.csv
-ventas.xlsx
+*.xlsx
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
